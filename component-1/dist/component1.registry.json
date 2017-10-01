@@ -1,0 +1,82 @@
+{
+  "namespace": "component1",
+  "components": [
+    [
+      "MY-NAME",
+      "bwk2fljn",
+      {
+        "$": "uyykddxl"
+      },
+      [
+        [
+          "first",
+          1
+        ],
+        [
+          "last",
+          1
+        ]
+      ]
+    ],
+    [
+      "STENCIL-ASYNC-CONTENT",
+      "7ga5yg38",
+      {}
+    ],
+    [
+      "STENCIL-ROUTE",
+      "7ga5yg38",
+      {}
+    ],
+    [
+      "STENCIL-ROUTE-LINK",
+      "7ga5yg38",
+      {},
+      0,
+      0,
+      1
+    ],
+    [
+      "STENCIL-ROUTE-TITLE",
+      "7ga5yg38",
+      {}
+    ],
+    [
+      "STENCIL-ROUTER",
+      "7ga5yg38",
+      {},
+      0,
+      0,
+      1
+    ],
+    [
+      "STENCIL-ROUTER-REDIRECT",
+      "7ga5yg38",
+      {}
+    ],
+    [
+      "TEST-APP",
+      "jpfurzpw",
+      {}
+    ],
+    [
+      "TEST-DEMO-FOUR",
+      "jpfurzpw",
+      {}
+    ],
+    [
+      "TEST-DEMO-SIX",
+      "jpfurzpw",
+      {}
+    ],
+    [
+      "TEST-DEMO-THREE",
+      "jpfurzpw",
+      {}
+    ]
+  ],
+  "loader": "component1.js",
+  "global": "component1.global.js",
+  "core": "component1/component1.xy3ulsmc.js",
+  "corePolyfilled": "component1/component1.bhzb12jn.pf.js"
+}

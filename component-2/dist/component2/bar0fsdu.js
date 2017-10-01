@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+component2.loadComponents("bar0fsdu",function(n,t,o,r,e){var i=function(){function n(){}return n.prototype.render=function(){return t("p",0,o("Hello, your name is "),this.first,o(" "),this.last)},n}();n["YOUR-NAME"]=i},["YOUR-NAME",[["first",1],["last",1]],{}]);

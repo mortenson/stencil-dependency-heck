@@ -1,0 +1,82 @@
+{
+  "namespace": "component2",
+  "components": [
+    [
+      "STENCIL-ASYNC-CONTENT",
+      "sazalcyy",
+      {}
+    ],
+    [
+      "STENCIL-ROUTE",
+      "sazalcyy",
+      {}
+    ],
+    [
+      "STENCIL-ROUTE-LINK",
+      "sazalcyy",
+      {},
+      0,
+      0,
+      1
+    ],
+    [
+      "STENCIL-ROUTE-TITLE",
+      "sazalcyy",
+      {}
+    ],
+    [
+      "STENCIL-ROUTER",
+      "sazalcyy",
+      {},
+      0,
+      0,
+      1
+    ],
+    [
+      "STENCIL-ROUTER-REDIRECT",
+      "sazalcyy",
+      {}
+    ],
+    [
+      "TEST-APP",
+      "ri8i638e",
+      {}
+    ],
+    [
+      "TEST-DEMO-FOUR",
+      "ri8i638e",
+      {}
+    ],
+    [
+      "TEST-DEMO-SIX",
+      "ri8i638e",
+      {}
+    ],
+    [
+      "TEST-DEMO-THREE",
+      "ri8i638e",
+      {}
+    ],
+    [
+      "YOUR-NAME",
+      "bar0fsdu",
+      {
+        "$": "evz1ic5s"
+      },
+      [
+        [
+          "first",
+          1
+        ],
+        [
+          "last",
+          1
+        ]
+      ]
+    ]
+  ],
+  "loader": "component2.js",
+  "global": "component2.global.js",
+  "core": "component2/component2.6qxih9tz.js",
+  "corePolyfilled": "component2/component2.5qhi1byv.pf.js"
+}

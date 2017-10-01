@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "tag": "your-name",
+      "componentClass": "YourName",
+      "componentPath": "components/your-name/your-name.js",
+      "styles": {
+        "$": {
+          "stylePaths": [
+            "components/your-name/your-name.scss"
+          ]
+        }
+      },
+      "props": [
+        {
+          "name": "first"
+        },
+        {
+          "name": "last"
+        }
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "components": [
+        "your-name"
+      ]
+    }
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "0.0.6-0"
+  }
+}
